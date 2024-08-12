@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FA1A0E75-0AD4-4681-AB89-BA932FBA4D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireSync.Domain", "src\HireSync.Domain\HireSync.Domain.csproj", "{0F2F284A-9E91-40AC-A84A-EE09E5488D7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireSync.Infrastructure", "src\HireSync.Infrastructure\HireSync.Infrastructure.csproj", "{638DC100-C098-4A13-B4A3-2C1258A60E77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireSync.Application", "src\HireSync.Application\HireSync.Application.csproj", "{65C15D1E-040B-49F0-AA67-7EEFE0EE22FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireSync.Presentation", "src\HireSync.Presentation\HireSync.Presentation.csproj", "{E787F19C-2DCC-4FDE-BAC9-5AEBD2C8CD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HireSync.API", "src\HireSync.API\HireSync.API.csproj", "{78509656-AEFE-4B16-9F5A-7F570FA12CA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F2F284A-9E91-40AC-A84A-EE09E5488D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2F284A-9E91-40AC-A84A-EE09E5488D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2F284A-9E91-40AC-A84A-EE09E5488D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2F284A-9E91-40AC-A84A-EE09E5488D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{638DC100-C098-4A13-B4A3-2C1258A60E77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638DC100-C098-4A13-B4A3-2C1258A60E77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638DC100-C098-4A13-B4A3-2C1258A60E77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638DC100-C098-4A13-B4A3-2C1258A60E77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C15D1E-040B-49F0-AA67-7EEFE0EE22FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C15D1E-040B-49F0-AA67-7EEFE0EE22FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C15D1E-040B-49F0-AA67-7EEFE0EE22FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C15D1E-040B-49F0-AA67-7EEFE0EE22FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E787F19C-2DCC-4FDE-BAC9-5AEBD2C8CD6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E787F19C-2DCC-4FDE-BAC9-5AEBD2C8CD6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E787F19C-2DCC-4FDE-BAC9-5AEBD2C8CD6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E787F19C-2DCC-4FDE-BAC9-5AEBD2C8CD6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78509656-AEFE-4B16-9F5A-7F570FA12CA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78509656-AEFE-4B16-9F5A-7F570FA12CA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78509656-AEFE-4B16-9F5A-7F570FA12CA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78509656-AEFE-4B16-9F5A-7F570FA12CA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0F2F284A-9E91-40AC-A84A-EE09E5488D7D} = {FA1A0E75-0AD4-4681-AB89-BA932FBA4D52}
+		{638DC100-C098-4A13-B4A3-2C1258A60E77} = {FA1A0E75-0AD4-4681-AB89-BA932FBA4D52}
+		{65C15D1E-040B-49F0-AA67-7EEFE0EE22FE} = {FA1A0E75-0AD4-4681-AB89-BA932FBA4D52}
+		{E787F19C-2DCC-4FDE-BAC9-5AEBD2C8CD6B} = {FA1A0E75-0AD4-4681-AB89-BA932FBA4D52}
+		{78509656-AEFE-4B16-9F5A-7F570FA12CA8} = {FA1A0E75-0AD4-4681-AB89-BA932FBA4D52}
+	EndGlobalSection
+EndGlobal
