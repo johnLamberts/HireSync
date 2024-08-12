@@ -23,3 +23,8 @@
  - Frontend: React, TypeScript, TailwindCSS
  - Database:  EF Core, SQLite
  - Hosting: DigitalOcean
+
+## Software Architecture (Backend)
+
+![Clean Architecture Template Title](assets/Clean%20Architecture%20Template%20Title.png)
+
