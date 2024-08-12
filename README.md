@@ -17,3 +17,9 @@
 - Advanced Candidate Matching: Utilize our algorithms to find the best fit for your openings, based on qualifications and cultural fit.
 - Applicant Management: Review profiles, track applications, and streamline your hiring process.
 - Team Collaboration: Collaborate with your HR team to make informed hiring decisions.
+
+## Technology Stack
+ - Backend: .NET Core Web API
+ - Frontend: React, TypeScript, TailwindCSS
+ - Database:  EF Core, SQLite
+ - Hosting: DigitalOcean
