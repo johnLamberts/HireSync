@@ -21,7 +21,7 @@
 ## Technology Stack
  - Backend: .NET Core Web API
  - Frontend: React, TypeScript, TailwindCSS
- - Database:  EF Core, SQLite
+ - Database:  EF Core && Dapper, MySQL
  - Hosting: DigitalOcean
 
 ## Software Architecture (Backend)
